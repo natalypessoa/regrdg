@@ -1,0 +1,11 @@
+comandos de entradas 
+condicionais
+
+Vetores
+
+Suponha a seguinte situação:
+– queremos ler e armazenar 5 notas informadas pelo usuário utilizando o laço for:
+for (int i = 0; i < 5; i++) { System.out.println("Digite uma nota:"); nota = entrada.nextDouble();
+}
+O que acontece com a primeira nota após a leitura das 5 notas?  
+    R:
